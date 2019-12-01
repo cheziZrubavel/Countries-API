@@ -1,0 +1,34 @@
+#div{
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: middle;
+    margin: 0 auto;
+
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    font-weight: bold;
+}
+#inDiv{
+    border: 2px solid black;
+    height: 350px;
+    width: 350px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+    box-shadow: 10px 10px 5px grey;
+    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .container-fluid{
+    position: absolute;
+    left: 3%;
+  }
